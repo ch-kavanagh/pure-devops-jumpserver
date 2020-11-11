@@ -1,0 +1,4 @@
+region: eu-west-1
+key_name: kavanagh2
+vpc_subnet_id: subnet-90bbf9cb
+group_id: sg-0cb516c6119cdcd12
